@@ -1,0 +1,1 @@
+python rename_images.py [文件夹路径] [起始数字x] [结束数字y]
